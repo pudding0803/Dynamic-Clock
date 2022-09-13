@@ -1,4 +1,4 @@
-# Dynamic-Clock
+# dynamic-clock
 
 * 一個動態的時鐘
 * 大一上學期拿來面試 NCU App 的作品
